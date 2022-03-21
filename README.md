@@ -1,5 +1,2 @@
-# oasis_infobyte_task3
-
-Hello Everyone !!
-
-I am Srushti Patil to I am going to show you task 3 of my oasis infobyte in which I had made one of the temperature calculator.
+# OIBSIP-Level1-Task3
+This is the Task-3 of Level-1 of the Oasis Infobyte Internship. In this task, I have made Temperature Converter Website. Here, The user will input a temperature in either Fahrenheit or Celsius and press a "convert" button. The converted temperature will then be displayed with the correct unit.
